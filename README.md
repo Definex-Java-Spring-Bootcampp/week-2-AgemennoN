@@ -1,4 +1,7 @@
 
+
+[**Answers to Research Questions**](https://github.com/Definex-Java-Spring-Bootcampp/week-2-AgemennoN/blob/main/bootcampweek2.pdf)
+
 New applications can be done with below methods 
 
 (PUT) api/users/{email}/application/loan/consumer
@@ -36,6 +39,7 @@ and all creditCards can be seen with
 (GET) api/users/{name}/creditCard
 
 ![image](https://github.com/Definex-Java-Spring-Bootcampp/week-2-AgemennoN/assets/81033171/1599f04b-213a-4836-9c62-01a1fe929c71)
+
 
 
 
